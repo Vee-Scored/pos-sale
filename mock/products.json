@@ -1,0 +1,16 @@
+[
+  {
+    "stockId": "09092332",
+    "description": "DM watch 1926L",
+    "quantity": "4",
+    "price": "100000",
+    "id": 1
+  },
+  {
+    "stockId": "09041212",
+    "description": "Samsung LED TV 55\"",
+    "quantity": "3",
+    "price": "1300000",
+    "id": 2
+  }
+]
